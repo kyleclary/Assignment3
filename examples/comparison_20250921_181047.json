@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Anemone",
+    "year": 2018,
+    "before_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 9.0,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Amrou Al-Kadhi"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 9.0,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Amrou Al-Kadhi",
+      "underperformance_category": "Limited Release",
+      "key_insights": "Anemone resonates deeply through its authentic and sensitive portrayal of non-binary identity, offering rare and vital representation in a short film format. Its artistic merit lies in its intimate storytelling and emotional depth, which have earned it high critical praise despite limited distribution. The film's cultural impact is significant, as it provides visibility and validation for underrepresented communities, making it a cherished work beyond commercial metrics.",
+      "genre_pattern": "Prestige Picture",
+      "marketing_assessment": "The primary marketing challenge is the lack of recognizable star power combined with an ambiguous language, which limits broad audience appeal and complicates targeted promotional efforts."
+    }
+  },
+  {
+    "title": "HIM",
+    "year": 2018,
+    "before_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Runar \u00de\u00f3r Sigurbj\u00f6rnsson"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Runar \u00de\u00f3r Sigurbj\u00f6rnsson",
+      "underperformance_category": "Limited Release",
+      "key_insights": "HIM resonates deeply through its poignant and intimate portrayal of adolescent anxiety and repressed sexuality, capturing universal emotional truths with remarkable authenticity. Its artistic merit lies in its subtle yet powerful storytelling and nuanced performances, which foster empathy and reflection despite its short format. Though commercially overlooked, it stands as a culturally significant work that addresses themes of identity and acceptance with quiet, impactful grace.",
+      "genre_pattern": "Prestige Picture",
+      "marketing_assessment": "The primary marketing challenge is its extremely short runtime and lack of recognizable star power, which may limit its appeal and commercial viability beyond niche film festivals or specialized short film platforms."
+    }
+  },
+  {
+    "title": "The Smashing Machine",
+    "year": 2002,
+    "before_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Documentary, Sport",
+      "director": "John Hyams"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Documentary, Sport",
+      "director": "John Hyams",
+      "underperformance_category": "Limited Release",
+      "key_insights": "This documentary offers an unflinching, intimate look at the brutal reality of MMA before its mainstream popularity, capturing both the physical and psychological toll of the sport through Mark Kerr's compelling journey. Its raw, v\u00e9rit\u00e9 style and emotional depth provide a powerful human story that transcends typical sports narratives, resonating deeply with those who discover it.",
+      "genre_pattern": "Documentary/Educational",
+      "marketing_assessment": "Lack of star power, as the film features real-life fighters and non-actors rather than recognizable names, limiting mainstream appeal and marketing hooks."
+    }
+  },
+  {
+    "title": "Together",
+    "year": 2000,
+    "before_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.4,
+      "box_office_millions": 1.03,
+      "genre": "Comedy, Drama, Romance",
+      "director": "Lukas Moodysson"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 7.4,
+      "box_office_millions": 1.03,
+      "genre": "Comedy, Drama, Romance",
+      "director": "Lukas Moodysson",
+      "underperformance_category": "Niche Appeal",
+      "key_insights": "Together excels through its authentic, nuanced portrayal of communal life and human relationships, blending sharp humor with poignant drama. Its critical acclaim stems from Lukas Moodysson's empathetic direction and the ensemble's heartfelt performances, which resonate deeply despite its niche appeal. The film's cultural insight and emotional honesty have cemented its status as a beloved, under-seen classic.",
+      "genre_pattern": "Prestige Picture",
+      "marketing_assessment": "The primary marketing challenge is its limited international star power and language barrier, as the Swedish/Danish cast and unknown language will hinder broad appeal and recognition in global markets."
+    }
+  },
+  {
+    "title": "The Long Walk",
+    "year": 2019,
+    "before_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 6.9,
+      "box_office_millions": 0.0,
+      "genre": "Drama, Horror, Mystery",
+      "director": "Mattie Do"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.1,
+      "imdb_rating": 6.9,
+      "box_office_millions": 0.0,
+      "genre": "Drama, Horror, Mystery",
+      "director": "Mattie Do",
+      "underperformance_category": "Limited Release",
+      "key_insights": "The Long Walk stands out as a hauntingly poetic blend of folklore and personal grief, weaving Laotian spiritual beliefs into a deeply intimate narrative on memory and loss. Its meditative pacing and atmospheric storytelling offer a culturally rich, emotionally resonant experience that transcends conventional genre boundaries. Despite its commercial invisibility, the film\u2019s artistic ambition and unique perspective have earned it critical admiration as a profound, visually arresting work.",
+      "genre_pattern": "Cult Potential",
+      "marketing_assessment": "The primary marketing challenge is the lack of recognizable star power and the unknown language, which complicates international appeal and limits effective promotional outreach."
+    }
+  }
+]

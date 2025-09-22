@@ -1,0 +1,68 @@
+[
+  {
+    "title": "HIM",
+    "year": 2018,
+    "before_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Runar \u00de\u00f3r Sigurbj\u00f6rnsson"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 7.7,
+      "box_office_millions": 0.0,
+      "genre": "Short, Drama",
+      "director": "Runar \u00de\u00f3r Sigurbj\u00f6rnsson",
+      "underperformance_category": "Limited Release",
+      "key_insights": "HIM stands out for its poignant and intimate portrayal of adolescent anxiety and repressed sexuality, executed with subtle yet powerful visual storytelling. Its high ratings reflect its ability to resonate deeply on an emotional level, despite its niche appeal and limited commercial reach. The film\u2019s artistic merit lies in its authentic representation of a universal struggle, making it a quietly impactful work in LGBTQ+ short cinema.",
+      "genre_pattern": "Prestige Picture",
+      "marketing_assessment": "The primary marketing challenge is its extremely short runtime and niche appeal as an Icelandic short film, which limits distribution avenues and mainstream audience engagement."
+    }
+  },
+  {
+    "title": "Together",
+    "year": 2000,
+    "before_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 7.4,
+      "box_office_millions": 1.03,
+      "genre": "Comedy, Drama, Romance",
+      "director": "Lukas Moodysson"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 7.4,
+      "box_office_millions": 1.03,
+      "genre": "Comedy, Drama, Romance",
+      "director": "Lukas Moodysson",
+      "underperformance_category": "Niche Appeal",
+      "key_insights": "Together (2000) excels through its nuanced, bittersweet portrayal of communal living, blending sharp humor with genuine emotional depth that critiques and humanizes idealism. Its authentic character development and subtle social commentary resonate deeply with critics and niche audiences, earning acclaim for its heartfelt storytelling. Despite limited commercial reach, it remains a cherished work for its insightful, empathetic look at relationships and societal change.",
+      "genre_pattern": "Prestige Picture",
+      "marketing_assessment": "The primary marketing challenge is the lack of internationally recognized star power, which limits broad appeal and complicates positioning the film for global audiences."
+    }
+  },
+  {
+    "title": "The Long Walk",
+    "year": 2019,
+    "before_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 6.9,
+      "box_office_millions": 0.0,
+      "genre": "Drama, Horror, Mystery",
+      "director": "Mattie Do"
+    },
+    "after_enrichment": {
+      "letterboxd_rating": 4.0,
+      "imdb_rating": 6.9,
+      "box_office_millions": 0.0,
+      "genre": "Drama, Horror, Mystery",
+      "director": "Mattie Do",
+      "underperformance_category": "Limited Release",
+      "key_insights": "The Long Walk stands out for its haunting blend of supernatural horror and intimate human drama, masterfully weaving Laotian folklore with poignant themes of grief and memory. Its meditative pacing and atmospheric storytelling offer a culturally rich, emotionally resonant experience that resonates deeply with critics and niche audiences, even if it lacked mainstream appeal.",
+      "genre_pattern": "Cult Potential",
+      "marketing_assessment": "The primary marketing challenge is the lack of recognizable star power and the film's origin from Laos, which may limit international appeal and complicate distribution in mainstream markets."
+    }
+  }
+]

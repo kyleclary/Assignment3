@@ -1,0 +1,61 @@
+I have attempted to make a program that uses letterboxd.com and the OMDB api to find "hidden gem" movies that would make good additions to a theoretical streaming service. This program uses beautifulsoup to scrape various lists across letterboxd.com for highly rated films (4.0 or above). The OMDB api is then used to look up data pertaining to these movies (Title, Year, Box Office, Budget, IMDB rating, Genre, Director, Actors, Plot, Awards, Runtime, Country and Language will be collected if available). It then returns movies released prior to 2020 that underperformed in the box office (<$17 million). While both stats are adjustable, $17 million is the average Box Office performance in the US and it is my opinion that 2020 is plenty enough time back to reintroduce a movie to a streaming service.
+
+In this project, I used AI to quickly analyze each film to choose the best three options to possibly acquire. Before the inclusion of deepseek, it would have taken one person a long time to analyze each individual movie. Deepseek efficiently analyzes all of the movies and returns its recommendations along with justifications.
+
+To use, run main.py and the program should run itself all the way through.
+
+Before AI Value:
+    "title":"Grave of the Fireflies",
+    "year":1988,
+    "letterboxd_rating":4.3,
+    "source_url":"https:\/\/letterboxd.com\/dave\/list\/official-top-250-narrative-feature-films\/",
+    "slug":"grave-of-the-fireflies",
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/grave-of-the-fireflies\/",
+    "box_office":516962,
+    "budget":0,
+    "imdb_rating":8.5,
+    "genre":"Animation, Drama, War",
+    "director":"Isao Takahata",
+    "actors":"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
+    "plot":"A young boy and his little sister struggle to survive in Japan during World War II.",
+    "awards":"3 wins total",
+    "runtime":"88 min",
+    "country":"Japan",
+    "language":"Japanese",
+    "is_underperformer":true,
+    "box_office_millions":0.52,
+    "budget_millions":0.0,
+    "roi":null,
+    "rating_differential":-4.2,
+    "decade":1980,
+    "decade_label":"1980s"
+
+After AI Value
+    "title":"Grave of the Fireflies",
+    "year":1988,
+    "letterboxd_rating":4.3,
+    "source_url":"https:\/\/letterboxd.com\/dave\/list\/official-top-250-narrative-feature-films\/",
+    "slug":"grave-of-the-fireflies",
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/grave-of-the-fireflies\/",
+    "box_office":516962,
+    "budget":0,
+    "imdb_rating":8.5,
+    "genre":"Animation, Drama, War",
+    "director":"Isao Takahata",
+    "actors":"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
+    "plot":"A young boy and his little sister struggle to survive in Japan during World War II.",
+    "awards":"3 wins total",
+    "runtime":"88 min",
+    "country":"Japan",
+    "language":"Japanese",
+    "is_underperformer":true,
+    "box_office_millions":0.52,
+    "budget_millions":0.0,
+    "roi":null,
+    "rating_differential":-4.2,
+    "decade":1980,
+    "decade_label":"1980s",
+    "underperformance_category":"Niche Appeal",
+    "key_insights":"Grave of the Fireflies is a profoundly moving anti-war film that masterfully uses the medium of animation to convey raw human tragedy, a rarity in its genre. Its unflinching emotional depth and poignant storytelling have earned it a revered status as a cinematic masterpiece over time, despite its initial commercial challenges. The film\u2019s lasting cultural impact lies in its powerful, universal message about the innocent victims of conflict.",
+    "genre_pattern":"Prestige Picture",
+    "marketing_assessment":"The primary marketing challenge is overcoming the language and cultural barriers to effectively position this emotionally devastating, anti-war animated film for international audiences beyond its Japanese origins."

@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+data/raw/*
+data/enriched/*
+examples/*
+!data/raw/.gitkeep
+!data/enriched/.gitkeep
+!examples/.gitkeep
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# API Keys - NEVER commit these
+api_keys.txt
+config.ini
+secrets.json
+
+# Jupyter Notebooks (if used for testing)
+.ipynb_checkpoints/
+*.ipynb
+
+# Cache
+.cache/
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

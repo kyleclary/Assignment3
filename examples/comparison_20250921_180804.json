@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Portrait of a Lady on Fire",
+    "before": {
+      "letterboxd_rating": 4.5,
+      "box_office_millions": 3.76,
+      "genre": "Drama, Romance"
+    },
+    "after": {
+      "letterboxd_rating": 4.5,
+      "box_office_millions": 3.76,
+      "genre": "Drama, Romance",
+      "underperformance_category": "Niche Appeal",
+      "key_insights": "Portrait of a Lady on Fire is a masterclass in visual storytelling and restrained emotion, using its painterly cinematography and deliberate pacing to explore themes of female gaze and desire with profound intimacy. Its commercial underperformance stems from its slow-burn, dialogue-light approach and subtitled arthouse nature, yet it has resonated deeply as a landmark in queer cinema for its authentic representation and artistic integrity."
+    }
+  },
+  {
+    "title": "The Handmaiden",
+    "before": {
+      "letterboxd_rating": 4.4,
+      "box_office_millions": 2.01,
+      "genre": "Drama, Romance, Thriller"
+    },
+    "after": {
+      "letterboxd_rating": 4.4,
+      "box_office_millions": 2.01,
+      "genre": "Drama, Romance, Thriller",
+      "underperformance_category": "Niche Appeal",
+      "key_insights": "The Handmaiden is a masterclass in subversive storytelling, blending lush cinematography with intricate narrative twists that challenge genre conventions and cultural taboos. Its layered exploration of female agency, desire, and deception resonates deeply with audiences, though its explicit themes and non-English dialogue limited mainstream appeal. The film\u2019s artistic audacity and emotional depth have cemented its status as a cult classic among cinephiles."
+    }
+  },
+  {
+    "title": "Her",
+    "before": {
+      "letterboxd_rating": 4.3,
+      "box_office_millions": 25.57,
+      "genre": "Drama, Romance, Sci-Fi"
+    },
+    "after": {
+      "letterboxd_rating": 4.3,
+      "box_office_millions": 25.57,
+      "genre": "Drama, Romance, Sci-Fi",
+      "underperformance_category": "Niche Appeal",
+      "key_insights": "Her is a poignant exploration of modern loneliness and human connection, elevated by its sensitive direction, nuanced performances, and a deeply empathetic screenplay. Its unique premise and emotional depth have earned it a cult following and critical acclaim, resonating with audiences who value introspective storytelling over mainstream appeal."
+    }
+  }
+]

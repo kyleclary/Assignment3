@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "total_movies": 57,
+    "underperformers": 24,
+    "timestamp": "20250921_213433"
+  },
+  "comparisons": [
+    {
+      "before": {
+        "title": "Andrei Rublev",
+        "year": 1966,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 0.12
+      },
+      "after": {
+        "title": "Andrei Rublev",
+        "year": 1966,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 0.12,
+        "underperformance_category": "Niche Appeal",
+        "key_insights": "Andrei Tarkovsky's *Andrei Rublev* is a profound meditation on art, faith, and humanity, celebrated for its poetic cinematography and philosophical de",
+        "marketing_assessment": "The primary marketing challenge is its lengthy, meditative runtime and complex historical narrative, which limit broad appeal and require targeting a "
+      }
+    },
+    {
+      "before": {
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 0.52
+      },
+      "after": {
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 0.52,
+        "underperformance_category": "Niche Appeal",
+        "key_insights": "Grave of the Fireflies is a profoundly moving anti-war film that masterfully uses the medium of animation to convey raw human tragedy, a rarity in its",
+        "marketing_assessment": "The primary marketing challenge is overcoming the language and cultural barriers to effectively position this emotionally devastating, anti-war animat"
+      }
+    },
+    {
+      "before": {
+        "title": "Spirited Away",
+        "year": 2001,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 15.21
+      },
+      "after": {
+        "title": "Spirited Away",
+        "year": 2001,
+        "letterboxd_rating": 4.3,
+        "box_office_millions": 15.21,
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its initial modest box office outside Japan, \"Spirited Away\" is celebrated for its breathtaking artistry and profound cultural depth, blending",
+        "marketing_assessment": "The primary marketing challenge is overcoming the language and cultural barrier for Western audiences, as it's a Japanese animated film with a complex"
+      }
+    }
+  ]
+}

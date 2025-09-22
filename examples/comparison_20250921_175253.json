@@ -1,0 +1,55 @@
+{
+  "before_after_comparison": [
+    {
+      "before_enrichment": {
+        "title": "The Long Walk",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "The Long Walk",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its commercial obscurity, The Long Walk captivates audiences with its profound emotional depth and raw, minimalist storytelling, offering a poignant exploration of human resilience. Its high ratings suggest it resonates deeply on an artistic level, likely through powerful performances and an intimate narrative that mainstream cinema often overlooks.",
+        "marketing_assessment": "The primary marketing challenge is the complete lack of recognizable elements\u2014such as cast, language, or runtime\u2014making it nearly impossible to identify a target audience or craft a compelling promotional message."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "Weapons",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "Weapons",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its commercial invisibility, \"Weapons\" captivates with its bold artistic vision and unconventional storytelling, earning a cult following for its raw emotional depth and stylistic innovation. Its high Letterboxd rating suggests it resonates powerfully with niche audiences who appreciate its daring narrative risks and unique aesthetic.",
+        "marketing_assessment": "The primary marketing challenge is the complete lack of recognizable talent or production details, making it impossible to leverage star power or genre appeal to attract a specific audience."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "The Naked Gun",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "The Naked Gun",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its apparent commercial obscurity, this film stands out for its brilliantly absurd humor and sharp satire that have cultivated a dedicated cult following. Its clever writing and unique comedic style have left a lasting cultural impact, influencing subsequent generations of parody films. The high ratings suggest it resonates deeply with those who discover it, making it a cherished, under-the-radar classic.",
+        "marketing_assessment": "The primary marketing challenge is the lack of identifiable star power or key details, making it difficult to attract a target audience or build promotional momentum."
+      }
+    }
+  ]
+}

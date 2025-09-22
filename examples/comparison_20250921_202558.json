@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "total_movies": 12,
+    "underperformers": 9,
+    "timestamp": "20250921_202558"
+  },
+  "comparisons": [
+    {
+      "before": {
+        "title": "The Long Walk",
+        "year": 2019,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "The Long Walk",
+        "year": 2019,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "This film masterfully blends Laotian folklore with poignant human drama, creating a haunting meditation on grief and memory through its unique superna",
+        "marketing_assessment": "The primary marketing challenge is the lack of recognizable star power and the language barrier, which will limit broad international appeal and compl"
+      }
+    },
+    {
+      "before": {
+        "title": "HIM",
+        "year": 2018,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "HIM",
+        "year": 2018,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "HIM resonates deeply through its raw, intimate portrayal of adolescent anxiety and repressed sexuality, capturing universal emotional truths with poig",
+        "marketing_assessment": "The primary marketing challenge is overcoming the language barrier and limited international appeal of an Icelandic short film, compounded by the lack"
+      }
+    },
+    {
+      "before": {
+        "title": "Sir\u0101t",
+        "year": 2016,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "Sir\u0101t",
+        "year": 2016,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its commercial invisibility, *Sir\u0101t* resonates as a poignant, intimate portrayal of war's human toll, elevated by its raw emotional depth and ",
+        "marketing_assessment": "The primary marketing challenge is overcoming the language barrier and limited runtime, which restrict broad audience appeal and complicate distributi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "before_after_comparison": [
+    {
+      "before_enrichment": {
+        "title": "Parasite",
+        "letterboxd_rating": 4.6,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "Parasite",
+        "letterboxd_rating": 4.6,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its commercial failure, \"Parasite\" is a masterclass in genre-blending and social commentary, seamlessly weaving dark humor, suspense, and tragedy to critique class inequality. Its layered storytelling and meticulous direction create a universally resonant yet uniquely Korean narrative, leaving a profound cultural impact that transcends its box office performance.",
+        "marketing_assessment": "The primary marketing challenge is overcoming language and cultural barriers to appeal to a broad international audience, compounded by the lack of recognizable star power to drive initial interest."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "Portrait of a Lady on Fire",
+        "letterboxd_rating": 4.5,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "Portrait of a Lady on Fire",
+        "letterboxd_rating": 4.5,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Portrait of a Lady on Fire is a masterclass in visual storytelling and emotional restraint, celebrated for its exquisite cinematography and profound exploration of female desire and artistic creation. Its commercial obscurity stems from its deliberate pacing and subtitled intimacy, which, while limiting mainstream appeal, have cemented its status as a modern arthouse treasure. The film\u2019s impact lies in its quiet yet powerful reclamation of the female gaze, resonating deeply with critics and cinephiles alike.",
+        "marketing_assessment": "The primary marketing challenge is the lack of recognizable actors and the film's foreign language, which may limit mainstream appeal and require a targeted campaign to reach niche art-house audiences."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "The Lighthouse",
+        "letterboxd_rating": 4.2,
+        "box_office_millions": 0.0,
+        "genre": "Unknown"
+      },
+      "after_enrichment": {
+        "title": "The Lighthouse",
+        "letterboxd_rating": 4.2,
+        "box_office_millions": 0.0,
+        "genre": "Unknown",
+        "underperformance_category": "Limited Release",
+        "key_insights": "The Lighthouse is a masterclass in atmospheric tension and psychological horror, elevated by its stark black-and-white cinematography and powerhouse performances from Willem Dafoe and Robert Pattinson. Its commercial obscurity stems from its challenging, surreal narrative and arthouse aesthetic, which alienated mainstream audiences but cemented its status as a cult favorite among cinephiles.",
+        "marketing_assessment": "The primary marketing challenge is the lack of recognizable actors and unclear target audience, making it difficult to attract mainstream viewers without relying on niche critical appeal or festival buzz."
+      }
+    }
+  ]
+}

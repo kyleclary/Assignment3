@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "total_movies": 12,
+    "underperformers": 9,
+    "timestamp": "20250921_202211"
+  },
+  "comparisons": [
+    {
+      "before": {
+        "title": "The Long Walk",
+        "year": 2019,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "The Long Walk",
+        "year": 2019,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "The Long Walk stands out as a hauntingly poetic fusion of Laotian folklore and supernatural mystery, offering a deeply personal yet culturally resonan",
+        "marketing_assessment": "The primary marketing challenge is the lack of recognizable star power and the language barrier, which will limit broad international appeal and compl"
+      }
+    },
+    {
+      "before": {
+        "title": "HIM",
+        "year": 2018,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "HIM",
+        "year": 2018,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "HIM stands out for its poignant and intimate portrayal of adolescent anxiety and repressed sexuality, masterfully conveyed through subtle performances",
+        "marketing_assessment": "The primary marketing challenge is the combination of a very short runtime (14 minutes) and the language barrier (Icelandic with limited international"
+      }
+    },
+    {
+      "before": {
+        "title": "Sir\u0101t",
+        "year": 2016,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0
+      },
+      "after": {
+        "title": "Sir\u0101t",
+        "year": 2016,
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "underperformance_category": "Limited Release",
+        "key_insights": "Sir\u0101t's profound emotional depth and poignant anti-war message resonate powerfully despite its limited reach, showcasing raw human resilience through ",
+        "marketing_assessment": "The primary marketing challenge is the combination of a very short runtime (14 minutes) and a niche language (Arabic) in a predominantly Turkish marke"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "before_after_comparison": [
+    {
+      "before_enrichment": {
+        "title": "The Long Walk",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Drama, Horror, Mystery"
+      },
+      "after_enrichment": {
+        "title": "The Long Walk",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Drama, Horror, Mystery",
+        "underperformance_category": "Limited Release",
+        "key_insights": "The Long Walk captivates with its haunting blend of supernatural folklore and intimate human grief, offering a culturally rich narrative that transcends conventional genre boundaries. Its meditative pacing and profound emotional depth resonate deeply with critics and niche audiences, though its slow-burn approach and specific cultural context limited mainstream appeal. This poetic exploration of memory and loss stands as a testament to cinema's power to evoke deep reflection, even without commercial success.",
+        "marketing_assessment": "The primary marketing challenge is overcoming limited international appeal due to the absence of recognizable actors and the Lao language, which restricts broader audience reach and complicates distribution outside niche markets."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "The Naked Gun",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 48.74,
+        "genre": "Action, Comedy, Crime"
+      },
+      "after_enrichment": {
+        "title": "The Naked Gun",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 48.74,
+        "genre": "Action, Comedy, Crime",
+        "underperformance_category": "Poor Marketing",
+        "key_insights": "Despite its modest box office, *The Naked Gun* is a masterclass in absurdist satire and deadpan humor, elevating slapstick to an art form with Leslie Nielsen's iconic performance. Its legacy endures through its influence on parody films and its cult status, celebrated for relentless wit and perfectly timed gags that have since become benchmarks in comedy.",
+        "marketing_assessment": "The primary marketing challenge is overcoming the miscasting of Liam Neeson in a slapstick comedy role, which may confuse audiences expecting his typical serious, action-oriented performances and dilute the film's comedic appeal."
+      }
+    },
+    {
+      "before_enrichment": {
+        "title": "The Thursday Murder Club",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Comedy, Crime, Mystery"
+      },
+      "after_enrichment": {
+        "title": "The Thursday Murder Club",
+        "letterboxd_rating": 4.0,
+        "box_office_millions": 0.0,
+        "genre": "Comedy, Crime, Mystery",
+        "underperformance_category": "Limited Release",
+        "key_insights": "Despite its commercial obscurity, *The Thursday Murder Club* captivates with its witty, character-driven narrative that subverts the typical crime genre by centering on sharp, endearing retirees. Its charm lies in blending humor with genuine mystery, offering a refreshing take that resonates deeply with niche audiences who appreciate clever storytelling over spectacle.",
+        "marketing_assessment": "Balancing appeal between older demographics drawn to its veteran cast and younger audiences unfamiliar with the source material, while ensuring the film's cozy mystery tone isn't perceived as overly niche or dated."
+      }
+    }
+  ]
+}
